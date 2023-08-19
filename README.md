@@ -1,4 +1,4 @@
-# MotionMastery
+# NeuroStride
 Predicting Human Activity using Neural Networks
 
 
