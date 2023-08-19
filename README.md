@@ -6,7 +6,7 @@ Predicting Human Activity using Neural Networks
 ## Introduction
 Human Activity Recognition (HAR) plays a pivotal role in various applications, especially with the advent of wearable technologies. Our project aims to recognize and classify human movements into activities such as walking, jogging, and sitting using deep learning.
 
-![NeuroStride Logo](path_to_logo_image_if_you_have_one.png)
+![NeuroStride Logo](logo.png)
 
 ## Dataset Overview
 We utilize the `human.csv` dataset that houses accelerometer data with `x`, `y`, and `z` axes measurements. Each entry is coupled with a timestamp, user identifier, and the corresponding activity label. The range of activities spans Walking, Jogging, Going Upstairs, Going Downstairs, Sitting, and Standing, among others.
